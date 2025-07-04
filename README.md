@@ -7,10 +7,10 @@ Welcome to **SerAI**, a smart and lightweight AI-powered assistant app designed 
 ## 📱 App Highlights
 
 - 💬 Chat with AI instantly
-- 🎯 Generate viral prompts for images, reels, and content
-- 🎨 Create AI art using text prompts
-- ⚡ Fast, clean, and ad-free interface
-- 🌗 Light & Dark mode
+- 🎯 Generate viral prompts
+- 🎨 Create AI art using text prompts - Unlimited for Free!
+- ⚡ Fast, clean interface
+
 
 ---
 
@@ -19,7 +19,6 @@ Welcome to **SerAI**, a smart and lightweight AI-powered assistant app designed 
 > ✅ Latest version: **v1.0.0**  
 > 📅 Last updated: **July 2025**
 
-### 🔽 [Download APK](https://your-website.com/serai.apk)
 
 You can download the SerAI app directly from the link above.  
 No Play Store needed. Works on all Android devices (Android 7+).
@@ -53,7 +52,7 @@ Absolutely. SerAI does not collect or store any personal data.
 If you have questions or feedback, contact us:
 - 📧 Email: support@serpentshub.online
 - 🌐 Website: [Serpentshub.online](https://serpentshub.online)
-- 💬 WhatsApp Support: [Click to Chat](https://wa.me/your-number)
+
 
 ---
 
